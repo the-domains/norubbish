@@ -1,0 +1,14 @@
+layout_spectrum: 0.25001456099562347
+typography_spectrum: 0.5828191845212132
+color:
+  brandStrength: 0.12313230684958398
+  lightness: 0.07108578365296125
+  saturation: 0.5240519584622234
+  rhythmicContrast: 0.6023190405685455
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: norubbish
